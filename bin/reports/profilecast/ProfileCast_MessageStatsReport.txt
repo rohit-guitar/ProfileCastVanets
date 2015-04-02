@@ -1,0 +1,20 @@
+Message stats for scenario ProfileCast
+sim_time: 345600.1000
+created: 1416
+started: 92556
+relayed: 5502
+aborted: 0
+dropped: 0
+removed: 4218
+delivered: 69
+delivery_prob: 0.0487
+response_prob: 0.0000
+overhead_ratio: 78.7391
+latency_avg: 19646.9913
+latency_med: 11181.4000
+hopcount_avg: 2.4783
+hopcount_med: 2
+buffertime_avg: 9742.8910
+buffertime_med: 5179.5000
+rtt_avg: NaN
+rtt_med: NaN

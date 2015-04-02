@@ -1,0 +1,2781 @@
+Message own similarityProfileCast
+sim_time: 345600.1000
+messaggio:  M8497 similairty con se' stesso: 0.5118782285043836
+
+messaggio:  M8498 similairty con se' stesso: 0.5847366354520992
+
+messaggio:  M8499 similairty con se' stesso: 0.5830565162679577
+
+messaggio:  M8500 similairty con se' stesso: 0.5756913286316175
+
+messaggio:  M8501 similairty con se' stesso: 0.5672965873685784
+
+messaggio:  M8502 similairty con se' stesso: 0.5333231122844222
+
+messaggio:  M8503 similairty con se' stesso: 0.6956704840728133
+
+messaggio:  M8504 similairty con se' stesso: 0.5806711497348251
+
+messaggio:  M8505 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M8506 similairty con se' stesso: 0.5510417038368484
+
+messaggio:  M8507 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M8508 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M8509 similairty con se' stesso: 0.5845176910895468
+
+messaggio:  M8510 similairty con se' stesso: 0.5502924782880824
+
+messaggio:  M8511 similairty con se' stesso: 0.5530911294475332
+
+messaggio:  M8512 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M8513 similairty con se' stesso: 0.5466216210706607
+
+messaggio:  M8514 similairty con se' stesso: 0.6091769459415769
+
+messaggio:  M8515 similairty con se' stesso: 0.5770026279848135
+
+messaggio:  M8516 similairty con se' stesso: 0.531480778980601
+
+messaggio:  M8517 similairty con se' stesso: 0.5394755861005485
+
+messaggio:  M8518 similairty con se' stesso: 0.664169090511145
+
+messaggio:  M8519 similairty con se' stesso: 0.5466216210706607
+
+messaggio:  M8520 similairty con se' stesso: 0.5164765325120667
+
+messaggio:  M8521 similairty con se' stesso: 0.5566593224136099
+
+messaggio:  M8522 similairty con se' stesso: 0.5174920042877142
+
+messaggio:  M8523 similairty con se' stesso: 0.5998120518905308
+
+messaggio:  M8524 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M8525 similairty con se' stesso: 0.5342252198877394
+
+messaggio:  M8526 similairty con se' stesso: 0.5549110793022461
+
+messaggio:  M8527 similairty con se' stesso: 0.5756913286316175
+
+messaggio:  M8528 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M8529 similairty con se' stesso: 0.5963793859893392
+
+messaggio:  M8530 similairty con se' stesso: 0.5934322652949714
+
+messaggio:  M8531 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M8532 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M8533 similairty con se' stesso: 0.5530911294475332
+
+messaggio:  M8534 similairty con se' stesso: 0.5655483153689947
+
+messaggio:  M8535 similairty con se' stesso: 0.6365119211845017
+
+messaggio:  M8536 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M8537 similairty con se' stesso: 0.6290047129055683
+
+messaggio:  M8538 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M8539 similairty con se' stesso: 0.6794710122657075
+
+messaggio:  M8540 similairty con se' stesso: 0.5595986657328667
+
+messaggio:  M8541 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M8542 similairty con se' stesso: 0.5425460184311897
+
+messaggio:  M8543 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M8544 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M8545 similairty con se' stesso: 0.5566593224136099
+
+messaggio:  M8546 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M8547 similairty con se' stesso: 0.649702614849129
+
+messaggio:  M8548 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M8549 similairty con se' stesso: 0.5756913286316175
+
+messaggio:  M8550 similairty con se' stesso: 0.5290167951839331
+
+messaggio:  M8551 similairty con se' stesso: 0.5071658526289573
+
+messaggio:  M8552 similairty con se' stesso: 0.6140640104693251
+
+messaggio:  M8553 similairty con se' stesso: 0.5118782285043836
+
+messaggio:  M8554 similairty con se' stesso: 0.5756913286316175
+
+messaggio:  M8555 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M8556 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M8557 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M8558 similairty con se' stesso: 0.6290047129055683
+
+messaggio:  M8559 similairty con se' stesso: 0.6512488524052159
+
+messaggio:  M8560 similairty con se' stesso: 0.6091769459415769
+
+messaggio:  M8561 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M8562 similairty con se' stesso: 0.5319666506855507
+
+messaggio:  M8563 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M8564 similairty con se' stesso: 0.574698669371879
+
+messaggio:  M8565 similairty con se' stesso: 0.6091769459415769
+
+messaggio:  M8566 similairty con se' stesso: 0.5441185052511716
+
+messaggio:  M8567 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M8568 similairty con se' stesso: 0.6057539339933007
+
+messaggio:  M8569 similairty con se' stesso: 0.6019235878637149
+
+messaggio:  M8570 similairty con se' stesso: 0.5530911294475332
+
+messaggio:  M8571 similairty con se' stesso: 0.6057539339933007
+
+messaggio:  M8572 similairty con se' stesso: 0.5263871876454469
+
+messaggio:  M8573 similairty con se' stesso: 0.6084464355346099
+
+messaggio:  M8574 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M8575 similairty con se' stesso: 0.5502924782880824
+
+messaggio:  M8576 similairty con se' stesso: 0.5342252198877394
+
+messaggio:  M8577 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M8578 similairty con se' stesso: 0.5300193480275953
+
+messaggio:  M8579 similairty con se' stesso: 0.5118782285043836
+
+messaggio:  M8580 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M8581 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M8582 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M8583 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M8584 similairty con se' stesso: 0.6365119211845017
+
+messaggio:  M8585 similairty con se' stesso: 0.5998120518905308
+
+messaggio:  M8586 similairty con se' stesso: 0.5825103935370713
+
+messaggio:  M8587 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M8588 similairty con se' stesso: 0.5626057212696669
+
+messaggio:  M8589 similairty con se' stesso: 0.5627662222807773
+
+messaggio:  M8590 similairty con se' stesso: 0.5348924033695807
+
+messaggio:  M8591 similairty con se' stesso: 0.5847366354520992
+
+messaggio:  M8592 similairty con se' stesso: 0.5598985523704567
+
+messaggio:  M8593 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M8594 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M8595 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M8596 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M8597 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M8598 similairty con se' stesso: 0.5208152544422445
+
+messaggio:  M8599 similairty con se' stesso: 0.6956704840728133
+
+messaggio:  M8600 similairty con se' stesso: 0.5756913286316175
+
+messaggio:  M8601 similairty con se' stesso: 0.5595986657328667
+
+messaggio:  M8602 similairty con se' stesso: 0.5389974918578168
+
+messaggio:  M8603 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M8604 similairty con se' stesso: 0.5290167951839331
+
+messaggio:  M8605 similairty con se' stesso: 0.5258118947759584
+
+messaggio:  M8606 similairty con se' stesso: 0.5963793859893392
+
+messaggio:  M8607 similairty con se' stesso: 0.5433137015823748
+
+messaggio:  M8608 similairty con se' stesso: 0.5290167951839331
+
+messaggio:  M8609 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M8610 similairty con se' stesso: 0.6599959914423104
+
+messaggio:  M8611 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M8612 similairty con se' stesso: 0.5626057212696669
+
+messaggio:  M8613 similairty con se' stesso: 0.5888577769211063
+
+messaggio:  M8614 similairty con se' stesso: 0.5549110793022461
+
+messaggio:  M8615 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M8616 similairty con se' stesso: 0.5263871876454469
+
+messaggio:  M8617 similairty con se' stesso: 0.6599959914423104
+
+messaggio:  M8618 similairty con se' stesso: 0.6057539339933007
+
+messaggio:  M8619 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M8620 similairty con se' stesso: 0.5389974918578168
+
+messaggio:  M8621 similairty con se' stesso: 0.5333231122844222
+
+messaggio:  M8622 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M8623 similairty con se' stesso: 0.5164765325120667
+
+messaggio:  M8624 similairty con se' stesso: 0.5672965873685784
+
+messaggio:  M8625 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M8626 similairty con se' stesso: 0.5691378059781558
+
+messaggio:  M8627 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M8628 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M8629 similairty con se' stesso: 0.542495468023367
+
+messaggio:  M8630 similairty con se' stesso: 0.5164765325120667
+
+messaggio:  M8631 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M8632 similairty con se' stesso: 0.5071658526289573
+
+messaggio:  M8633 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M8634 similairty con se' stesso: 0.623580036839649
+
+messaggio:  M8635 similairty con se' stesso: 0.5433137015823748
+
+messaggio:  M8636 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M8637 similairty con se' stesso: 0.566904623130232
+
+messaggio:  M8638 similairty con se' stesso: 0.5963793859893392
+
+messaggio:  M8639 similairty con se' stesso: 0.6140640104693251
+
+messaggio:  M8640 similairty con se' stesso: 0.5806711497348251
+
+messaggio:  M8641 similairty con se' stesso: 0.5845176910895468
+
+messaggio:  M8642 similairty con se' stesso: 0.531480778980601
+
+messaggio:  M8643 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M8644 similairty con se' stesso: 0.531480778980601
+
+messaggio:  M8645 similairty con se' stesso: 0.5389974918578168
+
+messaggio:  M8646 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M8647 similairty con se' stesso: 0.5770026279848135
+
+messaggio:  M8648 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M8649 similairty con se' stesso: 0.5756913286316175
+
+messaggio:  M8650 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M8651 similairty con se' stesso: 0.6794710122657075
+
+messaggio:  M8652 similairty con se' stesso: 0.5333231122844222
+
+messaggio:  M8653 similairty con se' stesso: 0.5319666506855507
+
+messaggio:  M8654 similairty con se' stesso: 0.5691378059781558
+
+messaggio:  M8655 similairty con se' stesso: 0.5103367633526303
+
+messaggio:  M8656 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M8657 similairty con se' stesso: 0.6290047129055683
+
+messaggio:  M8658 similairty con se' stesso: 0.6364242414622558
+
+messaggio:  M8659 similairty con se' stesso: 0.5333231122844222
+
+messaggio:  M8660 similairty con se' stesso: 0.5566593224136099
+
+messaggio:  M8661 similairty con se' stesso: 0.654027730590639
+
+messaggio:  M8662 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M8663 similairty con se' stesso: 0.6599959914423104
+
+messaggio:  M8664 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M8665 similairty con se' stesso: 0.672388596294569
+
+messaggio:  M8666 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M8667 similairty con se' stesso: 0.5433137015823748
+
+messaggio:  M8668 similairty con se' stesso: 0.5433137015823748
+
+messaggio:  M8669 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M8670 similairty con se' stesso: 0.5825103935370713
+
+messaggio:  M8671 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M8672 similairty con se' stesso: 0.6140640104693251
+
+messaggio:  M8673 similairty con se' stesso: 0.664169090511145
+
+messaggio:  M8674 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M8675 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M8676 similairty con se' stesso: 0.6290047129055683
+
+messaggio:  M8677 similairty con se' stesso: 0.5888577769211063
+
+messaggio:  M8678 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M8679 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M8680 similairty con se' stesso: 0.6140640104693251
+
+messaggio:  M8681 similairty con se' stesso: 0.5425460184311897
+
+messaggio:  M8682 similairty con se' stesso: 0.5342252198877394
+
+messaggio:  M8683 similairty con se' stesso: 0.6290270210441874
+
+messaggio:  M8684 similairty con se' stesso: 0.5502924782880824
+
+messaggio:  M8685 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M8686 similairty con se' stesso: 0.649702614849129
+
+messaggio:  M8687 similairty con se' stesso: 0.672388596294569
+
+messaggio:  M8688 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M8689 similairty con se' stesso: 0.5963793859893392
+
+messaggio:  M8690 similairty con se' stesso: 0.6057539339933007
+
+messaggio:  M8691 similairty con se' stesso: 0.5281312685052677
+
+messaggio:  M8692 similairty con se' stesso: 0.5174920042877142
+
+messaggio:  M8693 similairty con se' stesso: 0.6956704840728133
+
+messaggio:  M8694 similairty con se' stesso: 0.5595986657328667
+
+messaggio:  M8695 similairty con se' stesso: 0.6794710122657075
+
+messaggio:  M8696 similairty con se' stesso: 0.5164765325120667
+
+messaggio:  M8697 similairty con se' stesso: 0.6599264051429133
+
+messaggio:  M8698 similairty con se' stesso: 0.5071658526289573
+
+messaggio:  M8699 similairty con se' stesso: 0.57573145244085
+
+messaggio:  M8700 similairty con se' stesso: 0.6599264051429133
+
+messaggio:  M8701 similairty con se' stesso: 0.6290270210441874
+
+messaggio:  M8702 similairty con se' stesso: 0.5263871876454469
+
+messaggio:  M8703 similairty con se' stesso: 0.574698669371879
+
+messaggio:  M8704 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M8705 similairty con se' stesso: 0.5479303144836188
+
+messaggio:  M8706 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M8707 similairty con se' stesso: 0.5389974918578168
+
+messaggio:  M8708 similairty con se' stesso: 0.5845176910895468
+
+messaggio:  M8709 similairty con se' stesso: 0.5164765325120667
+
+messaggio:  M8710 similairty con se' stesso: 0.5281312685052677
+
+messaggio:  M8711 similairty con se' stesso: 0.5888577769211063
+
+messaggio:  M8712 similairty con se' stesso: 0.6956704840728133
+
+messaggio:  M8713 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M8714 similairty con se' stesso: 0.6512488524052159
+
+messaggio:  M8715 similairty con se' stesso: 0.5510417038368484
+
+messaggio:  M8716 similairty con se' stesso: 0.5348924033695807
+
+messaggio:  M8717 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M8718 similairty con se' stesso: 0.5118782285043836
+
+messaggio:  M8719 similairty con se' stesso: 0.6956704840728133
+
+messaggio:  M8720 similairty con se' stesso: 0.5655483153689947
+
+messaggio:  M8721 similairty con se' stesso: 0.5598985523704567
+
+messaggio:  M8722 similairty con se' stesso: 0.5343683303129714
+
+messaggio:  M8723 similairty con se' stesso: 0.5301999222833195
+
+messaggio:  M8724 similairty con se' stesso: 0.6599959914423104
+
+messaggio:  M8725 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M8726 similairty con se' stesso: 0.6055380403644852
+
+messaggio:  M8727 similairty con se' stesso: 0.5301999222833195
+
+messaggio:  M8728 similairty con se' stesso: 0.566904623130232
+
+messaggio:  M8729 similairty con se' stesso: 0.623580036839649
+
+messaggio:  M8730 similairty con se' stesso: 0.5598985523704567
+
+messaggio:  M8731 similairty con se' stesso: 0.5258118947759584
+
+messaggio:  M8732 similairty con se' stesso: 0.5342252198877394
+
+messaggio:  M8733 similairty con se' stesso: 0.6055380403644852
+
+messaggio:  M8734 similairty con se' stesso: 0.5118782285043836
+
+messaggio:  M8735 similairty con se' stesso: 0.5290167951839331
+
+messaggio:  M8736 similairty con se' stesso: 0.5825103935370713
+
+messaggio:  M8737 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M8738 similairty con se' stesso: 0.5626057212696669
+
+messaggio:  M8739 similairty con se' stesso: 0.5626057212696669
+
+messaggio:  M8740 similairty con se' stesso: 0.5164765325120667
+
+messaggio:  M8741 similairty con se' stesso: 0.5934322652949714
+
+messaggio:  M8742 similairty con se' stesso: 0.5118782285043836
+
+messaggio:  M8743 similairty con se' stesso: 0.6599264051429133
+
+messaggio:  M8744 similairty con se' stesso: 0.5847366354520992
+
+messaggio:  M8745 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M8746 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M8747 similairty con se' stesso: 0.566904623130232
+
+messaggio:  M8748 similairty con se' stesso: 0.649702614849129
+
+messaggio:  M8749 similairty con se' stesso: 0.5389974918578168
+
+messaggio:  M8750 similairty con se' stesso: 0.5934322652949714
+
+messaggio:  M8751 similairty con se' stesso: 0.5626057212696669
+
+messaggio:  M8752 similairty con se' stesso: 0.5441185052511716
+
+messaggio:  M8753 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M8754 similairty con se' stesso: 0.5830565162679577
+
+messaggio:  M8755 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M8756 similairty con se' stesso: 0.6794710122657075
+
+messaggio:  M8757 similairty con se' stesso: 0.5343683303129714
+
+messaggio:  M8758 similairty con se' stesso: 0.6057539339933007
+
+messaggio:  M8759 similairty con se' stesso: 0.5627662222807773
+
+messaggio:  M8760 similairty con se' stesso: 0.6512488524052159
+
+messaggio:  M8761 similairty con se' stesso: 0.5963793859893392
+
+messaggio:  M8762 similairty con se' stesso: 0.5174920042877142
+
+messaggio:  M8763 similairty con se' stesso: 0.5258118947759584
+
+messaggio:  M8764 similairty con se' stesso: 0.5290167951839331
+
+messaggio:  M8765 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M8766 similairty con se' stesso: 0.5301999222833195
+
+messaggio:  M8767 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M8768 similairty con se' stesso: 0.5655483153689947
+
+messaggio:  M8769 similairty con se' stesso: 0.5530911294475332
+
+messaggio:  M8770 similairty con se' stesso: 0.6057539339933007
+
+messaggio:  M8771 similairty con se' stesso: 0.5510417038368484
+
+messaggio:  M8772 similairty con se' stesso: 0.6599264051429133
+
+messaggio:  M8773 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M8774 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M8775 similairty con se' stesso: 0.5658102090982263
+
+messaggio:  M8776 similairty con se' stesso: 0.649702614849129
+
+messaggio:  M8777 similairty con se' stesso: 0.6956704840728133
+
+messaggio:  M8778 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M8779 similairty con se' stesso: 0.57573145244085
+
+messaggio:  M8780 similairty con se' stesso: 0.5888577769211063
+
+messaggio:  M8781 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M8782 similairty con se' stesso: 0.5281312685052677
+
+messaggio:  M8783 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M8784 similairty con se' stesso: 0.5164765325120667
+
+messaggio:  M8785 similairty con se' stesso: 0.5433137015823748
+
+messaggio:  M8786 similairty con se' stesso: 0.5998120518905308
+
+messaggio:  M8787 similairty con se' stesso: 0.5389974918578168
+
+messaggio:  M8788 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M8789 similairty con se' stesso: 0.5208152544422445
+
+messaggio:  M8790 similairty con se' stesso: 0.542495468023367
+
+messaggio:  M8791 similairty con se' stesso: 0.531480778980601
+
+messaggio:  M8792 similairty con se' stesso: 0.6956704840728133
+
+messaggio:  M8793 similairty con se' stesso: 0.623580036839649
+
+messaggio:  M8794 similairty con se' stesso: 0.5394755861005485
+
+messaggio:  M8795 similairty con se' stesso: 0.5333231122844222
+
+messaggio:  M8796 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M8797 similairty con se' stesso: 0.5290167951839331
+
+messaggio:  M8798 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M8799 similairty con se' stesso: 0.5466216210706607
+
+messaggio:  M8800 similairty con se' stesso: 0.5343683303129714
+
+messaggio:  M8801 similairty con se' stesso: 0.574698669371879
+
+messaggio:  M8802 similairty con se' stesso: 0.654027730590639
+
+messaggio:  M8803 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M8804 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M8805 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M8806 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M8807 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M8808 similairty con se' stesso: 0.5319666506855507
+
+messaggio:  M8809 similairty con se' stesso: 0.6290047129055683
+
+messaggio:  M8810 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M8811 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M8812 similairty con se' stesso: 0.5479303144836188
+
+messaggio:  M8813 similairty con se' stesso: 0.5830565162679577
+
+messaggio:  M8814 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M8815 similairty con se' stesso: 0.664507458961966
+
+messaggio:  M8816 similairty con se' stesso: 0.5342252198877394
+
+messaggio:  M8817 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M8818 similairty con se' stesso: 0.5174920042877142
+
+messaggio:  M8819 similairty con se' stesso: 0.5655483153689947
+
+messaggio:  M8820 similairty con se' stesso: 0.5806711497348251
+
+messaggio:  M8821 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M8822 similairty con se' stesso: 0.5118782285043836
+
+messaggio:  M8823 similairty con se' stesso: 0.6140640104693251
+
+messaggio:  M8824 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M8825 similairty con se' stesso: 0.6364242414622558
+
+messaggio:  M8826 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M8827 similairty con se' stesso: 0.6091769459415769
+
+messaggio:  M8828 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M8829 similairty con se' stesso: 0.5691378059781558
+
+messaggio:  M8830 similairty con se' stesso: 0.6512488524052159
+
+messaggio:  M8831 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M8832 similairty con se' stesso: 0.5830565162679577
+
+messaggio:  M8833 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M8834 similairty con se' stesso: 0.6365119211845017
+
+messaggio:  M8835 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M8836 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M8837 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M8838 similairty con se' stesso: 0.5934322652949714
+
+messaggio:  M8839 similairty con se' stesso: 0.5174920042877142
+
+messaggio:  M8840 similairty con se' stesso: 0.5530911294475332
+
+messaggio:  M8841 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M8842 similairty con se' stesso: 0.672388596294569
+
+messaggio:  M8843 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M8844 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M8845 similairty con se' stesso: 0.5658102090982263
+
+messaggio:  M8846 similairty con se' stesso: 0.5963793859893392
+
+messaggio:  M8847 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M8848 similairty con se' stesso: 0.6599959914423104
+
+messaggio:  M8849 similairty con se' stesso: 0.664169090511145
+
+messaggio:  M8850 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M8851 similairty con se' stesso: 0.5626057212696669
+
+messaggio:  M8852 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M8853 similairty con se' stesso: 0.5389974918578168
+
+messaggio:  M8854 similairty con se' stesso: 0.6290047129055683
+
+messaggio:  M8855 similairty con se' stesso: 0.5479303144836188
+
+messaggio:  M8856 similairty con se' stesso: 0.5806711497348251
+
+messaggio:  M8857 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M8858 similairty con se' stesso: 0.5103367633526303
+
+messaggio:  M8859 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M8860 similairty con se' stesso: 0.5319666506855507
+
+messaggio:  M8861 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M8862 similairty con se' stesso: 0.6794710122657075
+
+messaggio:  M8863 similairty con se' stesso: 0.6091769459415769
+
+messaggio:  M8864 similairty con se' stesso: 0.5466216210706607
+
+messaggio:  M8865 similairty con se' stesso: 0.5103367633526303
+
+messaggio:  M8866 similairty con se' stesso: 0.623580036839649
+
+messaggio:  M8867 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M8868 similairty con se' stesso: 0.6365119211845017
+
+messaggio:  M8869 similairty con se' stesso: 0.57573145244085
+
+messaggio:  M8870 similairty con se' stesso: 0.5466216210706607
+
+messaggio:  M8871 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M8872 similairty con se' stesso: 0.654027730590639
+
+messaggio:  M8873 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M8874 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M8875 similairty con se' stesso: 0.5208152544422445
+
+messaggio:  M8876 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M8877 similairty con se' stesso: 0.5258118947759584
+
+messaggio:  M8878 similairty con se' stesso: 0.5655483153689947
+
+messaggio:  M8879 similairty con se' stesso: 0.664169090511145
+
+messaggio:  M8880 similairty con se' stesso: 0.5389974918578168
+
+messaggio:  M8881 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M8882 similairty con se' stesso: 0.5530911294475332
+
+messaggio:  M8883 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M8884 similairty con se' stesso: 0.6290047129055683
+
+messaggio:  M8885 similairty con se' stesso: 0.5164765325120667
+
+messaggio:  M8886 similairty con se' stesso: 0.6364242414622558
+
+messaggio:  M8887 similairty con se' stesso: 0.5806711497348251
+
+messaggio:  M8888 similairty con se' stesso: 0.5830565162679577
+
+messaggio:  M8889 similairty con se' stesso: 0.6599959914423104
+
+messaggio:  M8890 similairty con se' stesso: 0.6599959914423104
+
+messaggio:  M8891 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M8892 similairty con se' stesso: 0.5425460184311897
+
+messaggio:  M8893 similairty con se' stesso: 0.5510417038368484
+
+messaggio:  M8894 similairty con se' stesso: 0.5998120518905308
+
+messaggio:  M8895 similairty con se' stesso: 0.5281312685052677
+
+messaggio:  M8896 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M8897 similairty con se' stesso: 0.531480778980601
+
+messaggio:  M8898 similairty con se' stesso: 0.5348924033695807
+
+messaggio:  M8899 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M8900 similairty con se' stesso: 0.6290270210441874
+
+messaggio:  M8901 similairty con se' stesso: 0.5343683303129714
+
+messaggio:  M8902 similairty con se' stesso: 0.531480778980601
+
+messaggio:  M8903 similairty con se' stesso: 0.5174920042877142
+
+messaggio:  M8904 similairty con se' stesso: 0.5963793859893392
+
+messaggio:  M8905 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M8906 similairty con se' stesso: 0.5658102090982263
+
+messaggio:  M8907 similairty con se' stesso: 0.6290270210441874
+
+messaggio:  M8908 similairty con se' stesso: 0.5103367633526303
+
+messaggio:  M8909 similairty con se' stesso: 0.6091769459415769
+
+messaggio:  M8910 similairty con se' stesso: 0.5847366354520992
+
+messaggio:  M8911 similairty con se' stesso: 0.5319666506855507
+
+messaggio:  M8912 similairty con se' stesso: 0.5847366354520992
+
+messaggio:  M8913 similairty con se' stesso: 0.57573145244085
+
+messaggio:  M8914 similairty con se' stesso: 0.5888577769211063
+
+messaggio:  M8915 similairty con se' stesso: 0.6599264051429133
+
+messaggio:  M8916 similairty con se' stesso: 0.6091769459415769
+
+messaggio:  M8917 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M8918 similairty con se' stesso: 0.6794710122657075
+
+messaggio:  M8919 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M8920 similairty con se' stesso: 0.574698669371879
+
+messaggio:  M8921 similairty con se' stesso: 0.5103367633526303
+
+messaggio:  M8922 similairty con se' stesso: 0.5208152544422445
+
+messaggio:  M8923 similairty con se' stesso: 0.5566593224136099
+
+messaggio:  M8924 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M8925 similairty con se' stesso: 0.5598985523704567
+
+messaggio:  M8926 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M8927 similairty con se' stesso: 0.5103367633526303
+
+messaggio:  M8928 similairty con se' stesso: 0.672388596294569
+
+messaggio:  M8929 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M8930 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M8931 similairty con se' stesso: 0.6084464355346099
+
+messaggio:  M8932 similairty con se' stesso: 0.6956704840728133
+
+messaggio:  M8933 similairty con se' stesso: 0.5658102090982263
+
+messaggio:  M8934 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M8935 similairty con se' stesso: 0.623580036839649
+
+messaggio:  M8936 similairty con se' stesso: 0.5394755861005485
+
+messaggio:  M8937 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M8938 similairty con se' stesso: 0.6091769459415769
+
+messaggio:  M8939 similairty con se' stesso: 0.5281312685052677
+
+messaggio:  M8940 similairty con se' stesso: 0.542495468023367
+
+messaggio:  M8941 similairty con se' stesso: 0.5394755861005485
+
+messaggio:  M8942 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M8943 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M8944 similairty con se' stesso: 0.5530911294475332
+
+messaggio:  M8945 similairty con se' stesso: 0.574698669371879
+
+messaggio:  M8946 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M8947 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M8948 similairty con se' stesso: 0.5655483153689947
+
+messaggio:  M8949 similairty con se' stesso: 0.5510417038368484
+
+messaggio:  M8950 similairty con se' stesso: 0.6290047129055683
+
+messaggio:  M8951 similairty con se' stesso: 0.5934322652949714
+
+messaggio:  M8952 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M8953 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M8954 similairty con se' stesso: 0.5333231122844222
+
+messaggio:  M8955 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M8956 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M8957 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M8958 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M8959 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M8960 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M8961 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M8962 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M8963 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M8964 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M8965 similairty con se' stesso: 0.574698669371879
+
+messaggio:  M8966 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M8967 similairty con se' stesso: 0.5300193480275953
+
+messaggio:  M8968 similairty con se' stesso: 0.5343683303129714
+
+messaggio:  M8969 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M8970 similairty con se' stesso: 0.6599264051429133
+
+messaggio:  M8971 similairty con se' stesso: 0.5502924782880824
+
+messaggio:  M8972 similairty con se' stesso: 0.5208152544422445
+
+messaggio:  M8973 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M8974 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M8975 similairty con se' stesso: 0.5510417038368484
+
+messaggio:  M8976 similairty con se' stesso: 0.5174920042877142
+
+messaggio:  M8977 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M8978 similairty con se' stesso: 0.5598985523704567
+
+messaggio:  M8979 similairty con se' stesso: 0.5263871876454469
+
+messaggio:  M8980 similairty con se' stesso: 0.5479303144836188
+
+messaggio:  M8981 similairty con se' stesso: 0.5071658526289573
+
+messaggio:  M8982 similairty con se' stesso: 0.5071658526289573
+
+messaggio:  M8983 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M8984 similairty con se' stesso: 0.6140640104693251
+
+messaggio:  M8985 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M8986 similairty con se' stesso: 0.574698669371879
+
+messaggio:  M8987 similairty con se' stesso: 0.5998120518905308
+
+messaggio:  M8988 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M8989 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M8990 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M8991 similairty con se' stesso: 0.5806711497348251
+
+messaggio:  M8992 similairty con se' stesso: 0.5263871876454469
+
+messaggio:  M8993 similairty con se' stesso: 0.5301999222833195
+
+messaggio:  M8994 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M8995 similairty con se' stesso: 0.5825103935370713
+
+messaggio:  M8996 similairty con se' stesso: 0.5963793859893392
+
+messaggio:  M8997 similairty con se' stesso: 0.5595986657328667
+
+messaggio:  M8998 similairty con se' stesso: 0.654027730590639
+
+messaggio:  M8999 similairty con se' stesso: 0.5071658526289573
+
+messaggio:  M9000 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M9001 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M9002 similairty con se' stesso: 0.574698669371879
+
+messaggio:  M9003 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M9004 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M9005 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M9006 similairty con se' stesso: 0.531480778980601
+
+messaggio:  M9007 similairty con se' stesso: 0.5433137015823748
+
+messaggio:  M9008 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9009 similairty con se' stesso: 0.664507458961966
+
+messaggio:  M9010 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M9011 similairty con se' stesso: 0.6364242414622558
+
+messaggio:  M9012 similairty con se' stesso: 0.542495468023367
+
+messaggio:  M9013 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M9014 similairty con se' stesso: 0.6365119211845017
+
+messaggio:  M9015 similairty con se' stesso: 0.5164765325120667
+
+messaggio:  M9016 similairty con se' stesso: 0.654027730590639
+
+messaggio:  M9017 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M9018 similairty con se' stesso: 0.5389974918578168
+
+messaggio:  M9019 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M9020 similairty con se' stesso: 0.5888577769211063
+
+messaggio:  M9021 similairty con se' stesso: 0.5441185052511716
+
+messaggio:  M9022 similairty con se' stesso: 0.5756913286316175
+
+messaggio:  M9023 similairty con se' stesso: 0.6084464355346099
+
+messaggio:  M9024 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M9025 similairty con se' stesso: 0.5756913286316175
+
+messaggio:  M9026 similairty con se' stesso: 0.6599959914423104
+
+messaggio:  M9027 similairty con se' stesso: 0.5342252198877394
+
+messaggio:  M9028 similairty con se' stesso: 0.5888577769211063
+
+messaggio:  M9029 similairty con se' stesso: 0.6794710122657075
+
+messaggio:  M9030 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M9031 similairty con se' stesso: 0.6599264051429133
+
+messaggio:  M9032 similairty con se' stesso: 0.5479303144836188
+
+messaggio:  M9033 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M9034 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M9035 similairty con se' stesso: 0.6292419878473412
+
+messaggio:  M9036 similairty con se' stesso: 0.6290270210441874
+
+messaggio:  M9037 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M9038 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M9039 similairty con se' stesso: 0.6055380403644852
+
+messaggio:  M9040 similairty con se' stesso: 0.5258118947759584
+
+messaggio:  M9041 similairty con se' stesso: 0.5281312685052677
+
+messaggio:  M9042 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M9043 similairty con se' stesso: 0.5845176910895468
+
+messaggio:  M9044 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9045 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9046 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M9047 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M9048 similairty con se' stesso: 0.5934322652949714
+
+messaggio:  M9049 similairty con se' stesso: 0.5290167951839331
+
+messaggio:  M9050 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M9051 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M9052 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M9053 similairty con se' stesso: 0.566904623130232
+
+messaggio:  M9054 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M9055 similairty con se' stesso: 0.5479303144836188
+
+messaggio:  M9056 similairty con se' stesso: 0.5300193480275953
+
+messaggio:  M9057 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M9058 similairty con se' stesso: 0.6290270210441874
+
+messaggio:  M9059 similairty con se' stesso: 0.5071658526289573
+
+messaggio:  M9060 similairty con se' stesso: 0.5263871876454469
+
+messaggio:  M9061 similairty con se' stesso: 0.623580036839649
+
+messaggio:  M9062 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M9063 similairty con se' stesso: 0.6365119211845017
+
+messaggio:  M9064 similairty con se' stesso: 0.5208152544422445
+
+messaggio:  M9065 similairty con se' stesso: 0.5655483153689947
+
+messaggio:  M9066 similairty con se' stesso: 0.6091769459415769
+
+messaggio:  M9067 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M9068 similairty con se' stesso: 0.5627662222807773
+
+messaggio:  M9069 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9070 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M9071 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9072 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M9073 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M9074 similairty con se' stesso: 0.6140640104693251
+
+messaggio:  M9075 similairty con se' stesso: 0.5530911294475332
+
+messaggio:  M9076 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M9077 similairty con se' stesso: 0.6091769459415769
+
+messaggio:  M9078 similairty con se' stesso: 0.5595986657328667
+
+messaggio:  M9079 similairty con se' stesso: 0.5595986657328667
+
+messaggio:  M9080 similairty con se' stesso: 0.5343683303129714
+
+messaggio:  M9081 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M9082 similairty con se' stesso: 0.5806711497348251
+
+messaggio:  M9083 similairty con se' stesso: 0.6599264051429133
+
+messaggio:  M9084 similairty con se' stesso: 0.5479303144836188
+
+messaggio:  M9085 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9086 similairty con se' stesso: 0.5998120518905308
+
+messaggio:  M9087 similairty con se' stesso: 0.5510417038368484
+
+messaggio:  M9088 similairty con se' stesso: 0.5118782285043836
+
+messaggio:  M9089 similairty con se' stesso: 0.5806711497348251
+
+messaggio:  M9090 similairty con se' stesso: 0.6364242414622558
+
+messaggio:  M9091 similairty con se' stesso: 0.5655483153689947
+
+messaggio:  M9092 similairty con se' stesso: 0.5847366354520992
+
+messaggio:  M9093 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M9094 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M9095 similairty con se' stesso: 0.5934322652949714
+
+messaggio:  M9096 similairty con se' stesso: 0.5595986657328667
+
+messaggio:  M9097 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M9098 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M9099 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M9100 similairty con se' stesso: 0.5300193480275953
+
+messaggio:  M9101 similairty con se' stesso: 0.5441185052511716
+
+messaggio:  M9102 similairty con se' stesso: 0.5598985523704567
+
+messaggio:  M9103 similairty con se' stesso: 0.6057539339933007
+
+messaggio:  M9104 similairty con se' stesso: 0.5208152544422445
+
+messaggio:  M9105 similairty con se' stesso: 0.6599959914423104
+
+messaggio:  M9106 similairty con se' stesso: 0.542495468023367
+
+messaggio:  M9107 similairty con se' stesso: 0.5756913286316175
+
+messaggio:  M9108 similairty con se' stesso: 0.623580036839649
+
+messaggio:  M9109 similairty con se' stesso: 0.531480778980601
+
+messaggio:  M9110 similairty con se' stesso: 0.5626057212696669
+
+messaggio:  M9111 similairty con se' stesso: 0.5164765325120667
+
+messaggio:  M9112 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M9113 similairty con se' stesso: 0.5263871876454469
+
+messaggio:  M9114 similairty con se' stesso: 0.566904623130232
+
+messaggio:  M9115 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M9116 similairty con se' stesso: 0.6057539339933007
+
+messaggio:  M9117 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M9118 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M9119 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M9120 similairty con se' stesso: 0.5071658526289573
+
+messaggio:  M9121 similairty con se' stesso: 0.5627662222807773
+
+messaggio:  M9122 similairty con se' stesso: 0.5691378059781558
+
+messaggio:  M9123 similairty con se' stesso: 0.5118782285043836
+
+messaggio:  M9124 similairty con se' stesso: 0.5071658526289573
+
+messaggio:  M9125 similairty con se' stesso: 0.6055380403644852
+
+messaggio:  M9126 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M9127 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9128 similairty con se' stesso: 0.5963793859893392
+
+messaggio:  M9129 similairty con se' stesso: 0.5756913286316175
+
+messaggio:  M9130 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M9131 similairty con se' stesso: 0.5441185052511716
+
+messaggio:  M9132 similairty con se' stesso: 0.5479303144836188
+
+messaggio:  M9133 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M9134 similairty con se' stesso: 0.5627662222807773
+
+messaggio:  M9135 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M9136 similairty con se' stesso: 0.574698669371879
+
+messaggio:  M9137 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M9138 similairty con se' stesso: 0.5549110793022461
+
+messaggio:  M9139 similairty con se' stesso: 0.5691378059781558
+
+messaggio:  M9140 similairty con se' stesso: 0.574698669371879
+
+messaggio:  M9141 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M9142 similairty con se' stesso: 0.5208152544422445
+
+messaggio:  M9143 similairty con se' stesso: 0.5658102090982263
+
+messaggio:  M9144 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M9145 similairty con se' stesso: 0.649702614849129
+
+messaggio:  M9146 similairty con se' stesso: 0.5530911294475332
+
+messaggio:  M9147 similairty con se' stesso: 0.5300193480275953
+
+messaggio:  M9148 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M9149 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M9150 similairty con se' stesso: 0.5770026279848135
+
+messaggio:  M9151 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M9152 similairty con se' stesso: 0.6084464355346099
+
+messaggio:  M9153 similairty con se' stesso: 0.5998120518905308
+
+messaggio:  M9154 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M9155 similairty con se' stesso: 0.5672965873685784
+
+messaggio:  M9156 similairty con se' stesso: 0.672388596294569
+
+messaggio:  M9157 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M9158 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M9159 similairty con se' stesso: 0.5441185052511716
+
+messaggio:  M9160 similairty con se' stesso: 0.5208152544422445
+
+messaggio:  M9161 similairty con se' stesso: 0.5502924782880824
+
+messaggio:  M9162 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M9163 similairty con se' stesso: 0.5806711497348251
+
+messaggio:  M9164 similairty con se' stesso: 0.531480778980601
+
+messaggio:  M9165 similairty con se' stesso: 0.5118782285043836
+
+messaggio:  M9166 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M9167 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M9168 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M9169 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M9170 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M9171 similairty con se' stesso: 0.5290167951839331
+
+messaggio:  M9172 similairty con se' stesso: 0.6365119211845017
+
+messaggio:  M9173 similairty con se' stesso: 0.5263871876454469
+
+messaggio:  M9174 similairty con se' stesso: 0.57573145244085
+
+messaggio:  M9175 similairty con se' stesso: 0.654027730590639
+
+messaggio:  M9176 similairty con se' stesso: 0.6365119211845017
+
+messaggio:  M9177 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M9178 similairty con se' stesso: 0.5348924033695807
+
+messaggio:  M9179 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M9180 similairty con se' stesso: 0.5281312685052677
+
+messaggio:  M9181 similairty con se' stesso: 0.6794710122657075
+
+messaggio:  M9182 similairty con se' stesso: 0.5847366354520992
+
+messaggio:  M9183 similairty con se' stesso: 0.664507458961966
+
+messaggio:  M9184 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M9185 similairty con se' stesso: 0.6290270210441874
+
+messaggio:  M9186 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M9187 similairty con se' stesso: 0.5847366354520992
+
+messaggio:  M9188 similairty con se' stesso: 0.5333231122844222
+
+messaggio:  M9189 similairty con se' stesso: 0.623580036839649
+
+messaggio:  M9190 similairty con se' stesso: 0.6057539339933007
+
+messaggio:  M9191 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9192 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M9193 similairty con se' stesso: 0.6956704840728133
+
+messaggio:  M9194 similairty con se' stesso: 0.6512488524052159
+
+messaggio:  M9195 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M9196 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M9197 similairty con se' stesso: 0.5566593224136099
+
+messaggio:  M9198 similairty con se' stesso: 0.531480778980601
+
+messaggio:  M9199 similairty con se' stesso: 0.6290270210441874
+
+messaggio:  M9200 similairty con se' stesso: 0.664507458961966
+
+messaggio:  M9201 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9202 similairty con se' stesso: 0.5770026279848135
+
+messaggio:  M9203 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M9204 similairty con se' stesso: 0.6290047129055683
+
+messaggio:  M9205 similairty con se' stesso: 0.5845176910895468
+
+messaggio:  M9206 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M9207 similairty con se' stesso: 0.5502924782880824
+
+messaggio:  M9208 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M9209 similairty con se' stesso: 0.5655483153689947
+
+messaggio:  M9210 similairty con se' stesso: 0.5071658526289573
+
+messaggio:  M9211 similairty con se' stesso: 0.5825103935370713
+
+messaggio:  M9212 similairty con se' stesso: 0.5626057212696669
+
+messaggio:  M9213 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M9214 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M9215 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M9216 similairty con se' stesso: 0.5479303144836188
+
+messaggio:  M9217 similairty con se' stesso: 0.5502924782880824
+
+messaggio:  M9218 similairty con se' stesso: 0.664169090511145
+
+messaggio:  M9219 similairty con se' stesso: 0.672388596294569
+
+messaggio:  M9220 similairty con se' stesso: 0.5103367633526303
+
+messaggio:  M9221 similairty con se' stesso: 0.5691378059781558
+
+messaggio:  M9222 similairty con se' stesso: 0.5626057212696669
+
+messaggio:  M9223 similairty con se' stesso: 0.5342252198877394
+
+messaggio:  M9224 similairty con se' stesso: 0.5658102090982263
+
+messaggio:  M9225 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M9226 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M9227 similairty con se' stesso: 0.5300193480275953
+
+messaggio:  M9228 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M9229 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M9230 similairty con se' stesso: 0.6365119211845017
+
+messaggio:  M9231 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M9232 similairty con se' stesso: 0.5258118947759584
+
+messaggio:  M9233 similairty con se' stesso: 0.5466216210706607
+
+messaggio:  M9234 similairty con se' stesso: 0.6140640104693251
+
+messaggio:  M9235 similairty con se' stesso: 0.5756913286316175
+
+messaggio:  M9236 similairty con se' stesso: 0.5510417038368484
+
+messaggio:  M9237 similairty con se' stesso: 0.5103367633526303
+
+messaggio:  M9238 similairty con se' stesso: 0.5691378059781558
+
+messaggio:  M9239 similairty con se' stesso: 0.5847366354520992
+
+messaggio:  M9240 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M9241 similairty con se' stesso: 0.5998120518905308
+
+messaggio:  M9242 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M9243 similairty con se' stesso: 0.57573145244085
+
+messaggio:  M9244 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M9245 similairty con se' stesso: 0.531480778980601
+
+messaggio:  M9246 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M9247 similairty con se' stesso: 0.5672965873685784
+
+messaggio:  M9248 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M9249 similairty con se' stesso: 0.5691378059781558
+
+messaggio:  M9250 similairty con se' stesso: 0.5466216210706607
+
+messaggio:  M9251 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M9252 similairty con se' stesso: 0.5164765325120667
+
+messaggio:  M9253 similairty con se' stesso: 0.5825103935370713
+
+messaggio:  M9254 similairty con se' stesso: 0.5342252198877394
+
+messaggio:  M9255 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M9256 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M9257 similairty con se' stesso: 0.5479303144836188
+
+messaggio:  M9258 similairty con se' stesso: 0.5888577769211063
+
+messaggio:  M9259 similairty con se' stesso: 0.5343683303129714
+
+messaggio:  M9260 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9261 similairty con se' stesso: 0.6599264051429133
+
+messaggio:  M9262 similairty con se' stesso: 0.57573145244085
+
+messaggio:  M9263 similairty con se' stesso: 0.5263871876454469
+
+messaggio:  M9264 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M9265 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M9266 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M9267 similairty con se' stesso: 0.5888577769211063
+
+messaggio:  M9268 similairty con se' stesso: 0.5595986657328667
+
+messaggio:  M9269 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9270 similairty con se' stesso: 0.5342252198877394
+
+messaggio:  M9271 similairty con se' stesso: 0.5208152544422445
+
+messaggio:  M9272 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M9273 similairty con se' stesso: 0.6091769459415769
+
+messaggio:  M9274 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M9275 similairty con se' stesso: 0.566904623130232
+
+messaggio:  M9276 similairty con se' stesso: 0.531480778980601
+
+messaggio:  M9277 similairty con se' stesso: 0.5655483153689947
+
+messaggio:  M9278 similairty con se' stesso: 0.5845176910895468
+
+messaggio:  M9279 similairty con se' stesso: 0.5300193480275953
+
+messaggio:  M9280 similairty con se' stesso: 0.5530911294475332
+
+messaggio:  M9281 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M9282 similairty con se' stesso: 0.5389974918578168
+
+messaggio:  M9283 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M9284 similairty con se' stesso: 0.5343683303129714
+
+messaggio:  M9285 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M9286 similairty con se' stesso: 0.5888577769211063
+
+messaggio:  M9287 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M9288 similairty con se' stesso: 0.6365119211845017
+
+messaggio:  M9289 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M9290 similairty con se' stesso: 0.5281312685052677
+
+messaggio:  M9291 similairty con se' stesso: 0.5343683303129714
+
+messaggio:  M9292 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9293 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9294 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9295 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M9296 similairty con se' stesso: 0.6019235878637149
+
+messaggio:  M9297 similairty con se' stesso: 0.5425460184311897
+
+messaggio:  M9298 similairty con se' stesso: 0.5963793859893392
+
+messaggio:  M9299 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M9300 similairty con se' stesso: 0.5441185052511716
+
+messaggio:  M9301 similairty con se' stesso: 0.6140640104693251
+
+messaggio:  M9302 similairty con se' stesso: 0.5263871876454469
+
+messaggio:  M9303 similairty con se' stesso: 0.6512488524052159
+
+messaggio:  M9304 similairty con se' stesso: 0.5071658526289573
+
+messaggio:  M9305 similairty con se' stesso: 0.5319666506855507
+
+messaggio:  M9306 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M9307 similairty con se' stesso: 0.5934322652949714
+
+messaggio:  M9308 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M9309 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M9310 similairty con se' stesso: 0.6290270210441874
+
+messaggio:  M9311 similairty con se' stesso: 0.6364242414622558
+
+messaggio:  M9312 similairty con se' stesso: 0.5118782285043836
+
+messaggio:  M9313 similairty con se' stesso: 0.5433137015823748
+
+messaggio:  M9314 similairty con se' stesso: 0.566904623130232
+
+messaggio:  M9315 similairty con se' stesso: 0.6290270210441874
+
+messaggio:  M9316 similairty con se' stesso: 0.6055380403644852
+
+messaggio:  M9317 similairty con se' stesso: 0.6140640104693251
+
+messaggio:  M9318 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M9319 similairty con se' stesso: 0.6057539339933007
+
+messaggio:  M9320 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M9321 similairty con se' stesso: 0.5281312685052677
+
+messaggio:  M9322 similairty con se' stesso: 0.5263871876454469
+
+messaggio:  M9323 similairty con se' stesso: 0.5598985523704567
+
+messaggio:  M9324 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M9325 similairty con se' stesso: 0.649702614849129
+
+messaggio:  M9326 similairty con se' stesso: 0.5806711497348251
+
+messaggio:  M9327 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M9328 similairty con se' stesso: 0.5466216210706607
+
+messaggio:  M9329 similairty con se' stesso: 0.5300193480275953
+
+messaggio:  M9330 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M9331 similairty con se' stesso: 0.5389974918578168
+
+messaggio:  M9332 similairty con se' stesso: 0.6290047129055683
+
+messaggio:  M9333 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M9334 similairty con se' stesso: 0.5963793859893392
+
+messaggio:  M9335 similairty con se' stesso: 0.5281312685052677
+
+messaggio:  M9336 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M9337 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M9338 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M9339 similairty con se' stesso: 0.5595986657328667
+
+messaggio:  M9340 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M9341 similairty con se' stesso: 0.6091769459415769
+
+messaggio:  M9342 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M9343 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M9344 similairty con se' stesso: 0.5342252198877394
+
+messaggio:  M9345 similairty con se' stesso: 0.6055380403644852
+
+messaggio:  M9346 similairty con se' stesso: 0.6599959914423104
+
+messaggio:  M9347 similairty con se' stesso: 0.6365119211845017
+
+messaggio:  M9348 similairty con se' stesso: 0.6055380403644852
+
+messaggio:  M9349 similairty con se' stesso: 0.566904623130232
+
+messaggio:  M9350 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M9351 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M9352 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M9353 similairty con se' stesso: 0.5502924782880824
+
+messaggio:  M9354 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M9355 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M9356 similairty con se' stesso: 0.574698669371879
+
+messaggio:  M9357 similairty con se' stesso: 0.5672965873685784
+
+messaggio:  M9358 similairty con se' stesso: 0.5441185052511716
+
+messaggio:  M9359 similairty con se' stesso: 0.5888577769211063
+
+messaggio:  M9360 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M9361 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M9362 similairty con se' stesso: 0.5258118947759584
+
+messaggio:  M9363 similairty con se' stesso: 0.5998120518905308
+
+messaggio:  M9364 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9365 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M9366 similairty con se' stesso: 0.5770026279848135
+
+messaggio:  M9367 similairty con se' stesso: 0.664507458961966
+
+messaggio:  M9368 similairty con se' stesso: 0.6084464355346099
+
+messaggio:  M9369 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M9370 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M9371 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M9372 similairty con se' stesso: 0.5672965873685784
+
+messaggio:  M9373 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M9374 similairty con se' stesso: 0.57573145244085
+
+messaggio:  M9375 similairty con se' stesso: 0.5319666506855507
+
+messaggio:  M9376 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M9377 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M9378 similairty con se' stesso: 0.5164765325120667
+
+messaggio:  M9379 similairty con se' stesso: 0.5433137015823748
+
+messaggio:  M9380 similairty con se' stesso: 0.5806711497348251
+
+messaggio:  M9381 similairty con se' stesso: 0.5549110793022461
+
+messaggio:  M9382 similairty con se' stesso: 0.6599959914423104
+
+messaggio:  M9383 similairty con se' stesso: 0.5301999222833195
+
+messaggio:  M9384 similairty con se' stesso: 0.5479303144836188
+
+messaggio:  M9385 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M9386 similairty con se' stesso: 0.5934322652949714
+
+messaggio:  M9387 similairty con se' stesso: 0.672388596294569
+
+messaggio:  M9388 similairty con se' stesso: 0.5934322652949714
+
+messaggio:  M9389 similairty con se' stesso: 0.5433137015823748
+
+messaggio:  M9390 similairty con se' stesso: 0.6512488524052159
+
+messaggio:  M9391 similairty con se' stesso: 0.6512488524052159
+
+messaggio:  M9392 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M9393 similairty con se' stesso: 0.5164765325120667
+
+messaggio:  M9394 similairty con se' stesso: 0.5998120518905308
+
+messaggio:  M9395 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M9396 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M9397 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M9398 similairty con se' stesso: 0.664507458961966
+
+messaggio:  M9399 similairty con se' stesso: 0.5071658526289573
+
+messaggio:  M9400 similairty con se' stesso: 0.6292419878473412
+
+messaggio:  M9401 similairty con se' stesso: 0.5626057212696669
+
+messaggio:  M9402 similairty con se' stesso: 0.5319666506855507
+
+messaggio:  M9403 similairty con se' stesso: 0.5425460184311897
+
+messaggio:  M9404 similairty con se' stesso: 0.5441185052511716
+
+messaggio:  M9405 similairty con se' stesso: 0.5290167951839331
+
+messaggio:  M9406 similairty con se' stesso: 0.6091769459415769
+
+messaggio:  M9407 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M9408 similairty con se' stesso: 0.5566593224136099
+
+messaggio:  M9409 similairty con se' stesso: 0.5530911294475332
+
+messaggio:  M9410 similairty con se' stesso: 0.5598985523704567
+
+messaggio:  M9411 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M9412 similairty con se' stesso: 0.574698669371879
+
+messaggio:  M9413 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M9414 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M9415 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M9416 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M9417 similairty con se' stesso: 0.5626057212696669
+
+messaggio:  M9418 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M9419 similairty con se' stesso: 0.5756913286316175
+
+messaggio:  M9420 similairty con se' stesso: 0.5394755861005485
+
+messaggio:  M9421 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M9422 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M9423 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M9424 similairty con se' stesso: 0.6599959914423104
+
+messaggio:  M9425 similairty con se' stesso: 0.5342252198877394
+
+messaggio:  M9426 similairty con se' stesso: 0.5333231122844222
+
+messaggio:  M9427 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M9428 similairty con se' stesso: 0.5208152544422445
+
+messaggio:  M9429 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M9430 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M9431 similairty con se' stesso: 0.672388596294569
+
+messaggio:  M9432 similairty con se' stesso: 0.6084464355346099
+
+messaggio:  M9433 similairty con se' stesso: 0.5934322652949714
+
+messaggio:  M9434 similairty con se' stesso: 0.5389974918578168
+
+messaggio:  M9435 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M9436 similairty con se' stesso: 0.5806711497348251
+
+messaggio:  M9437 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M9438 similairty con se' stesso: 0.5672965873685784
+
+messaggio:  M9439 similairty con se' stesso: 0.6057539339933007
+
+messaggio:  M9440 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M9441 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M9442 similairty con se' stesso: 0.6599959914423104
+
+messaggio:  M9443 similairty con se' stesso: 0.5502924782880824
+
+messaggio:  M9444 similairty con se' stesso: 0.6364242414622558
+
+messaggio:  M9445 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M9446 similairty con se' stesso: 0.664169090511145
+
+messaggio:  M9447 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M9448 similairty con se' stesso: 0.5441185052511716
+
+messaggio:  M9449 similairty con se' stesso: 0.5691378059781558
+
+messaggio:  M9450 similairty con se' stesso: 0.5825103935370713
+
+messaggio:  M9451 similairty con se' stesso: 0.5319666506855507
+
+messaggio:  M9452 similairty con se' stesso: 0.5174920042877142
+
+messaggio:  M9453 similairty con se' stesso: 0.5530911294475332
+
+messaggio:  M9454 similairty con se' stesso: 0.5319666506855507
+
+messaggio:  M9455 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M9456 similairty con se' stesso: 0.5691378059781558
+
+messaggio:  M9457 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M9458 similairty con se' stesso: 0.6290270210441874
+
+messaggio:  M9459 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M9460 similairty con se' stesso: 0.5263871876454469
+
+messaggio:  M9461 similairty con se' stesso: 0.5433137015823748
+
+messaggio:  M9462 similairty con se' stesso: 0.664169090511145
+
+messaggio:  M9463 similairty con se' stesso: 0.6292419878473412
+
+messaggio:  M9464 similairty con se' stesso: 0.6365119211845017
+
+messaggio:  M9465 similairty con se' stesso: 0.5566593224136099
+
+messaggio:  M9466 similairty con se' stesso: 0.5301999222833195
+
+messaggio:  M9467 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M9468 similairty con se' stesso: 0.5598985523704567
+
+messaggio:  M9469 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M9470 similairty con se' stesso: 0.664507458961966
+
+messaggio:  M9471 similairty con se' stesso: 0.5174920042877142
+
+messaggio:  M9472 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M9473 similairty con se' stesso: 0.5281312685052677
+
+messaggio:  M9474 similairty con se' stesso: 0.5888577769211063
+
+messaggio:  M9475 similairty con se' stesso: 0.6599264051429133
+
+messaggio:  M9476 similairty con se' stesso: 0.5071658526289573
+
+messaggio:  M9477 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M9478 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M9479 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M9480 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9481 similairty con se' stesso: 0.57573145244085
+
+messaggio:  M9482 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M9483 similairty con se' stesso: 0.5530911294475332
+
+messaggio:  M9484 similairty con se' stesso: 0.5281312685052677
+
+messaggio:  M9485 similairty con se' stesso: 0.664169090511145
+
+messaggio:  M9486 similairty con se' stesso: 0.5343683303129714
+
+messaggio:  M9487 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M9488 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M9489 similairty con se' stesso: 0.5998120518905308
+
+messaggio:  M9490 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M9491 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M9492 similairty con se' stesso: 0.6365119211845017
+
+messaggio:  M9493 similairty con se' stesso: 0.5208152544422445
+
+messaggio:  M9494 similairty con se' stesso: 0.5770026279848135
+
+messaggio:  M9495 similairty con se' stesso: 0.6091769459415769
+
+messaggio:  M9496 similairty con se' stesso: 0.5103367633526303
+
+messaggio:  M9497 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M9498 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M9499 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M9500 similairty con se' stesso: 0.566904623130232
+
+messaggio:  M9501 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M9502 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M9503 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M9504 similairty con se' stesso: 0.57573145244085
+
+messaggio:  M9505 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M9506 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M9507 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M9508 similairty con se' stesso: 0.5549110793022461
+
+messaggio:  M9509 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M9510 similairty con se' stesso: 0.5691378059781558
+
+messaggio:  M9511 similairty con se' stesso: 0.6292419878473412
+
+messaggio:  M9512 similairty con se' stesso: 0.6364242414622558
+
+messaggio:  M9513 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M9514 similairty con se' stesso: 0.5934322652949714
+
+messaggio:  M9515 similairty con se' stesso: 0.6365119211845017
+
+messaggio:  M9516 similairty con se' stesso: 0.5888577769211063
+
+messaggio:  M9517 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M9518 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M9519 similairty con se' stesso: 0.664507458961966
+
+messaggio:  M9520 similairty con se' stesso: 0.5672965873685784
+
+messaggio:  M9521 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M9522 similairty con se' stesso: 0.5595986657328667
+
+messaggio:  M9523 similairty con se' stesso: 0.5333231122844222
+
+messaggio:  M9524 similairty con se' stesso: 0.5208152544422445
+
+messaggio:  M9525 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M9526 similairty con se' stesso: 0.5566593224136099
+
+messaggio:  M9527 similairty con se' stesso: 0.5103367633526303
+
+messaggio:  M9528 similairty con se' stesso: 0.6512488524052159
+
+messaggio:  M9529 similairty con se' stesso: 0.5963793859893392
+
+messaggio:  M9530 similairty con se' stesso: 0.672388596294569
+
+messaggio:  M9531 similairty con se' stesso: 0.5333231122844222
+
+messaggio:  M9532 similairty con se' stesso: 0.5672965873685784
+
+messaggio:  M9533 similairty con se' stesso: 0.5806711497348251
+
+messaggio:  M9534 similairty con se' stesso: 0.6364242414622558
+
+messaggio:  M9535 similairty con se' stesso: 0.5164765325120667
+
+messaggio:  M9536 similairty con se' stesso: 0.6084464355346099
+
+messaggio:  M9537 similairty con se' stesso: 0.649702614849129
+
+messaggio:  M9538 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M9539 similairty con se' stesso: 0.5071658526289573
+
+messaggio:  M9540 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9541 similairty con se' stesso: 0.654027730590639
+
+messaggio:  M9542 similairty con se' stesso: 0.5806711497348251
+
+messaggio:  M9543 similairty con se' stesso: 0.6055380403644852
+
+messaggio:  M9544 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9545 similairty con se' stesso: 0.5343683303129714
+
+messaggio:  M9546 similairty con se' stesso: 0.5342252198877394
+
+messaggio:  M9547 similairty con se' stesso: 0.623580036839649
+
+messaggio:  M9548 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M9549 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M9550 similairty con se' stesso: 0.5627662222807773
+
+messaggio:  M9551 similairty con se' stesso: 0.5566593224136099
+
+messaggio:  M9552 similairty con se' stesso: 0.5319666506855507
+
+messaggio:  M9553 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M9554 similairty con se' stesso: 0.6019235878637149
+
+messaggio:  M9555 similairty con se' stesso: 0.5319666506855507
+
+messaggio:  M9556 similairty con se' stesso: 0.5466216210706607
+
+messaggio:  M9557 similairty con se' stesso: 0.5830565162679577
+
+messaggio:  M9558 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9559 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M9560 similairty con se' stesso: 0.574698669371879
+
+messaggio:  M9561 similairty con se' stesso: 0.672388596294569
+
+messaggio:  M9562 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M9563 similairty con se' stesso: 0.6599959914423104
+
+messaggio:  M9564 similairty con se' stesso: 0.6290270210441874
+
+messaggio:  M9565 similairty con se' stesso: 0.5595986657328667
+
+messaggio:  M9566 similairty con se' stesso: 0.5103367633526303
+
+messaggio:  M9567 similairty con se' stesso: 0.5655483153689947
+
+messaggio:  M9568 similairty con se' stesso: 0.5770026279848135
+
+messaggio:  M9569 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M9570 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9571 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M9572 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M9573 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M9574 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M9575 similairty con se' stesso: 0.5888577769211063
+
+messaggio:  M9576 similairty con se' stesso: 0.6290270210441874
+
+messaggio:  M9577 similairty con se' stesso: 0.5963793859893392
+
+messaggio:  M9578 similairty con se' stesso: 0.664169090511145
+
+messaggio:  M9579 similairty con se' stesso: 0.57573145244085
+
+messaggio:  M9580 similairty con se' stesso: 0.5441185052511716
+
+messaggio:  M9581 similairty con se' stesso: 0.5672965873685784
+
+messaggio:  M9582 similairty con se' stesso: 0.6794710122657075
+
+messaggio:  M9583 similairty con se' stesso: 0.5348924033695807
+
+messaggio:  M9584 similairty con se' stesso: 0.664507458961966
+
+messaggio:  M9585 similairty con se' stesso: 0.6084464355346099
+
+messaggio:  M9586 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M9587 similairty con se' stesso: 0.5103367633526303
+
+messaggio:  M9588 similairty con se' stesso: 0.5502924782880824
+
+messaggio:  M9589 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M9590 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M9591 similairty con se' stesso: 0.5333231122844222
+
+messaggio:  M9592 similairty con se' stesso: 0.6091769459415769
+
+messaggio:  M9593 similairty con se' stesso: 0.5333231122844222
+
+messaggio:  M9594 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M9595 similairty con se' stesso: 0.6019235878637149
+
+messaggio:  M9596 similairty con se' stesso: 0.5806711497348251
+
+messaggio:  M9597 similairty con se' stesso: 0.5479303144836188
+
+messaggio:  M9598 similairty con se' stesso: 0.5595986657328667
+
+messaggio:  M9599 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M9600 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M9601 similairty con se' stesso: 0.5348924033695807
+
+messaggio:  M9602 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M9603 similairty con se' stesso: 0.5595986657328667
+
+messaggio:  M9604 similairty con se' stesso: 0.5598985523704567
+
+messaggio:  M9605 similairty con se' stesso: 0.5502924782880824
+
+messaggio:  M9606 similairty con se' stesso: 0.5301999222833195
+
+messaggio:  M9607 similairty con se' stesso: 0.5208152544422445
+
+messaggio:  M9608 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M9609 similairty con se' stesso: 0.5595986657328667
+
+messaggio:  M9610 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M9611 similairty con se' stesso: 0.6599264051429133
+
+messaggio:  M9612 similairty con se' stesso: 0.5577821142612066
+
+messaggio:  M9613 similairty con se' stesso: 0.5510417038368484
+
+messaggio:  M9614 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M9615 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M9616 similairty con se' stesso: 0.5627662222807773
+
+messaggio:  M9617 similairty con se' stesso: 0.5389974918578168
+
+messaggio:  M9618 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M9619 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M9620 similairty con se' stesso: 0.5333231122844222
+
+messaggio:  M9621 similairty con se' stesso: 0.672388596294569
+
+messaggio:  M9622 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9623 similairty con se' stesso: 0.5530911294475332
+
+messaggio:  M9624 similairty con se' stesso: 0.5290167951839331
+
+messaggio:  M9625 similairty con se' stesso: 0.6091769459415769
+
+messaggio:  M9626 similairty con se' stesso: 0.654027730590639
+
+messaggio:  M9627 similairty con se' stesso: 0.6057539339933007
+
+messaggio:  M9628 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M9629 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M9630 similairty con se' stesso: 0.5433137015823748
+
+messaggio:  M9631 similairty con se' stesso: 0.5502924782880824
+
+messaggio:  M9632 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M9633 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M9634 similairty con se' stesso: 0.5530911294475332
+
+messaggio:  M9635 similairty con se' stesso: 0.664507458961966
+
+messaggio:  M9636 similairty con se' stesso: 0.5479303144836188
+
+messaggio:  M9637 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M9638 similairty con se' stesso: 0.5658102090982263
+
+messaggio:  M9639 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M9640 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M9641 similairty con se' stesso: 0.5103367633526303
+
+messaggio:  M9642 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M9643 similairty con se' stesso: 0.6140640104693251
+
+messaggio:  M9644 similairty con se' stesso: 0.5672965873685784
+
+messaggio:  M9645 similairty con se' stesso: 0.5071658526289573
+
+messaggio:  M9646 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M9647 similairty con se' stesso: 0.5174920042877142
+
+messaggio:  M9648 similairty con se' stesso: 0.5756913286316175
+
+messaggio:  M9649 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M9650 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M9651 similairty con se' stesso: 0.5281312685052677
+
+messaggio:  M9652 similairty con se' stesso: 0.5300193480275953
+
+messaggio:  M9653 similairty con se' stesso: 0.5319666506855507
+
+messaggio:  M9654 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M9655 similairty con se' stesso: 0.5174920042877142
+
+messaggio:  M9656 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M9657 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M9658 similairty con se' stesso: 0.672388596294569
+
+messaggio:  M9659 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M9660 similairty con se' stesso: 0.672388596294569
+
+messaggio:  M9661 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M9662 similairty con se' stesso: 0.5433137015823748
+
+messaggio:  M9663 similairty con se' stesso: 0.623580036839649
+
+messaggio:  M9664 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9665 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9666 similairty con se' stesso: 0.6084464355346099
+
+messaggio:  M9667 similairty con se' stesso: 0.5389974918578168
+
+messaggio:  M9668 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M9669 similairty con se' stesso: 0.5672965873685784
+
+messaggio:  M9670 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M9671 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M9672 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9673 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M9674 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M9675 similairty con se' stesso: 0.6292419878473412
+
+messaggio:  M9676 similairty con se' stesso: 0.664169090511145
+
+messaggio:  M9677 similairty con se' stesso: 0.5301999222833195
+
+messaggio:  M9678 similairty con se' stesso: 0.5394755861005485
+
+messaggio:  M9679 similairty con se' stesso: 0.566904623130232
+
+messaggio:  M9680 similairty con se' stesso: 0.5770026279848135
+
+messaggio:  M9681 similairty con se' stesso: 0.5627662222807773
+
+messaggio:  M9682 similairty con se' stesso: 0.5655483153689947
+
+messaggio:  M9683 similairty con se' stesso: 0.5598985523704567
+
+messaggio:  M9684 similairty con se' stesso: 0.5691378059781558
+
+messaggio:  M9685 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M9686 similairty con se' stesso: 0.664507458961966
+
+messaggio:  M9687 similairty con se' stesso: 0.5263871876454469
+
+messaggio:  M9688 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M9689 similairty con se' stesso: 0.5300193480275953
+
+messaggio:  M9690 similairty con se' stesso: 0.6512488524052159
+
+messaggio:  M9691 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9692 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M9693 similairty con se' stesso: 0.5847366354520992
+
+messaggio:  M9694 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M9695 similairty con se' stesso: 0.574698669371879
+
+messaggio:  M9696 similairty con se' stesso: 0.6290047129055683
+
+messaggio:  M9697 similairty con se' stesso: 0.666275415338473
+
+messaggio:  M9698 similairty con se' stesso: 0.5258118947759584
+
+messaggio:  M9699 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M9700 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M9701 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9702 similairty con se' stesso: 0.574698669371879
+
+messaggio:  M9703 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9704 similairty con se' stesso: 0.5103367633526303
+
+messaggio:  M9705 similairty con se' stesso: 0.5441185052511716
+
+messaggio:  M9706 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M9707 similairty con se' stesso: 0.6140640104693251
+
+messaggio:  M9708 similairty con se' stesso: 0.5389974918578168
+
+messaggio:  M9709 similairty con se' stesso: 0.5845176910895468
+
+messaggio:  M9710 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M9711 similairty con se' stesso: 0.5479303144836188
+
+messaggio:  M9712 similairty con se' stesso: 0.6599959914423104
+
+messaggio:  M9713 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M9714 similairty con se' stesso: 0.5258118947759584
+
+messaggio:  M9715 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M9716 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M9717 similairty con se' stesso: 0.5348924033695807
+
+messaggio:  M9718 similairty con se' stesso: 0.5433137015823748
+
+messaggio:  M9719 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M9720 similairty con se' stesso: 0.5258118947759584
+
+messaggio:  M9721 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M9722 similairty con se' stesso: 0.6512488524052159
+
+messaggio:  M9723 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M9724 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M9725 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M9726 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M9727 similairty con se' stesso: 0.6290047129055683
+
+messaggio:  M9728 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M9729 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9730 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M9731 similairty con se' stesso: 0.5655483153689947
+
+messaggio:  M9732 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M9733 similairty con se' stesso: 0.5258118947759584
+
+messaggio:  M9734 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M9735 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9736 similairty con se' stesso: 0.542495468023367
+
+messaggio:  M9737 similairty con se' stesso: 0.664507458961966
+
+messaggio:  M9738 similairty con se' stesso: 0.5830565162679577
+
+messaggio:  M9739 similairty con se' stesso: 0.5348924033695807
+
+messaggio:  M9740 similairty con se' stesso: 0.5595986657328667
+
+messaggio:  M9741 similairty con se' stesso: 0.5845176910895468
+
+messaggio:  M9742 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M9743 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M9744 similairty con se' stesso: 0.5595986657328667
+
+messaggio:  M9745 similairty con se' stesso: 0.5691378059781558
+
+messaggio:  M9746 similairty con se' stesso: 0.6290047129055683
+
+messaggio:  M9747 similairty con se' stesso: 0.6364242414622558
+
+messaggio:  M9748 similairty con se' stesso: 0.5118782285043836
+
+messaggio:  M9749 similairty con se' stesso: 0.5888577769211063
+
+messaggio:  M9750 similairty con se' stesso: 0.6290047129055683
+
+messaggio:  M9751 similairty con se' stesso: 0.5502924782880824
+
+messaggio:  M9752 similairty con se' stesso: 0.5626057212696669
+
+messaggio:  M9753 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M9754 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M9755 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M9756 similairty con se' stesso: 0.5701320847977728
+
+messaggio:  M9757 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M9758 similairty con se' stesso: 0.6956704840728133
+
+messaggio:  M9759 similairty con se' stesso: 0.5441185052511716
+
+messaggio:  M9760 similairty con se' stesso: 0.566904623130232
+
+messaggio:  M9761 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M9762 similairty con se' stesso: 0.5466216210706607
+
+messaggio:  M9763 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M9764 similairty con se' stesso: 0.649702614849129
+
+messaggio:  M9765 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M9766 similairty con se' stesso: 0.5425460184311897
+
+messaggio:  M9767 similairty con se' stesso: 0.5281312685052677
+
+messaggio:  M9768 similairty con se' stesso: 0.5348924033695807
+
+messaggio:  M9769 similairty con se' stesso: 0.57573145244085
+
+messaggio:  M9770 similairty con se' stesso: 0.6045341780909693
+
+messaggio:  M9771 similairty con se' stesso: 0.5118782285043836
+
+messaggio:  M9772 similairty con se' stesso: 0.5549110793022461
+
+messaggio:  M9773 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M9774 similairty con se' stesso: 0.664507458961966
+
+messaggio:  M9775 similairty con se' stesso: 0.5963793859893392
+
+messaggio:  M9776 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M9777 similairty con se' stesso: 0.5845176910895468
+
+messaggio:  M9778 similairty con se' stesso: 0.5770026279848135
+
+messaggio:  M9779 similairty con se' stesso: 0.6292419878473412
+
+messaggio:  M9780 similairty con se' stesso: 0.5333231122844222
+
+messaggio:  M9781 similairty con se' stesso: 0.5934322652949714
+
+messaggio:  M9782 similairty con se' stesso: 0.5510417038368484
+
+messaggio:  M9783 similairty con se' stesso: 0.69818093255345
+
+messaggio:  M9784 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M9785 similairty con se' stesso: 0.6599959914423104
+
+messaggio:  M9786 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9787 similairty con se' stesso: 0.6512488524052159
+
+messaggio:  M9788 similairty con se' stesso: 0.5756913286316175
+
+messaggio:  M9789 similairty con se' stesso: 0.5343683303129714
+
+messaggio:  M9790 similairty con se' stesso: 0.5348924033695807
+
+messaggio:  M9791 similairty con se' stesso: 0.5495398918981003
+
+messaggio:  M9792 similairty con se' stesso: 0.5655483153689947
+
+messaggio:  M9793 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M9794 similairty con se' stesso: 0.5208152544422445
+
+messaggio:  M9795 similairty con se' stesso: 0.5342252198877394
+
+messaggio:  M9796 similairty con se' stesso: 0.5934322652949714
+
+messaggio:  M9797 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9798 similairty con se' stesso: 0.5118782285043836
+
+messaggio:  M9799 similairty con se' stesso: 0.6599264051429133
+
+messaggio:  M9800 similairty con se' stesso: 0.5672965873685784
+
+messaggio:  M9801 similairty con se' stesso: 0.5394755861005485
+
+messaggio:  M9802 similairty con se' stesso: 0.5658102090982263
+
+messaggio:  M9803 similairty con se' stesso: 0.6140640104693251
+
+messaggio:  M9804 similairty con se' stesso: 0.5963793859893392
+
+messaggio:  M9805 similairty con se' stesso: 0.649702614849129
+
+messaggio:  M9806 similairty con se' stesso: 0.5263871876454469
+
+messaggio:  M9807 similairty con se' stesso: 0.6055380403644852
+
+messaggio:  M9808 similairty con se' stesso: 0.5549110793022461
+
+messaggio:  M9809 similairty con se' stesso: 0.5433137015823748
+
+messaggio:  M9810 similairty con se' stesso: 0.531480778980601
+
+messaggio:  M9811 similairty con se' stesso: 0.5530911294475332
+
+messaggio:  M9812 similairty con se' stesso: 0.664507458961966
+
+messaggio:  M9813 similairty con se' stesso: 0.5479303144836188
+
+messaggio:  M9814 similairty con se' stesso: 0.6084464355346099
+
+messaggio:  M9815 similairty con se' stesso: 0.5549110793022461
+
+messaggio:  M9816 similairty con se' stesso: 0.5566593224136099
+
+messaggio:  M9817 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M9818 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M9819 similairty con se' stesso: 0.620834834807708
+
+messaggio:  M9820 similairty con se' stesso: 0.5832198997431969
+
+messaggio:  M9821 similairty con se' stesso: 0.57327844005425
+
+messaggio:  M9822 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M9823 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9824 similairty con se' stesso: 0.6273335514845327
+
+messaggio:  M9825 similairty con se' stesso: 0.5888577769211063
+
+messaggio:  M9826 similairty con se' stesso: 0.5164765325120667
+
+messaggio:  M9827 similairty con se' stesso: 0.5934322652949714
+
+messaggio:  M9828 similairty con se' stesso: 0.6290047129055683
+
+messaggio:  M9829 similairty con se' stesso: 0.5502924782880824
+
+messaggio:  M9830 similairty con se' stesso: 0.5598985523704567
+
+messaggio:  M9831 similairty con se' stesso: 0.5627662222807773
+
+messaggio:  M9832 similairty con se' stesso: 0.6084464355346099
+
+messaggio:  M9833 similairty con se' stesso: 0.5445385528810979
+
+messaggio:  M9834 similairty con se' stesso: 0.5691378059781558
+
+messaggio:  M9835 similairty con se' stesso: 0.5934322652949714
+
+messaggio:  M9836 similairty con se' stesso: 0.5056399915672173
+
+messaggio:  M9837 similairty con se' stesso: 0.654027730590639
+
+messaggio:  M9838 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M9839 similairty con se' stesso: 0.5847366354520992
+
+messaggio:  M9840 similairty con se' stesso: 0.5598985523704567
+
+messaggio:  M9841 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M9842 similairty con se' stesso: 0.5549110793022461
+
+messaggio:  M9843 similairty con se' stesso: 0.5425460184311897
+
+messaggio:  M9844 similairty con se' stesso: 0.5103367633526303
+
+messaggio:  M9845 similairty con se' stesso: 0.5598985523704567
+
+messaggio:  M9846 similairty con se' stesso: 0.5882329204457537
+
+messaggio:  M9847 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M9848 similairty con se' stesso: 0.5655483153689947
+
+messaggio:  M9849 similairty con se' stesso: 0.7128265214215322
+
+messaggio:  M9850 similairty con se' stesso: 0.566904623130232
+
+messaggio:  M9851 similairty con se' stesso: 0.5516613238202398
+
+messaggio:  M9852 similairty con se' stesso: 0.531480778980601
+
+messaggio:  M9853 similairty con se' stesso: 0.5672965873685784
+
+messaggio:  M9854 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M9855 similairty con se' stesso: 0.6055380403644852
+
+messaggio:  M9856 similairty con se' stesso: 0.5756913286316175
+
+messaggio:  M9857 similairty con se' stesso: 0.5730876732876432
+
+messaggio:  M9858 similairty con se' stesso: 0.7022136514165538
+
+messaggio:  M9859 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M9860 similairty con se' stesso: 0.5598985523704567
+
+messaggio:  M9861 similairty con se' stesso: 0.5394755861005485
+
+messaggio:  M9862 similairty con se' stesso: 0.5348924033695807
+
+messaggio:  M9863 similairty con se' stesso: 0.6057539339933007
+
+messaggio:  M9864 similairty con se' stesso: 0.5770026279848135
+
+messaggio:  M9865 similairty con se' stesso: 0.5319666506855507
+
+messaggio:  M9866 similairty con se' stesso: 0.6271387894934545
+
+messaggio:  M9867 similairty con se' stesso: 0.623580036839649
+
+messaggio:  M9868 similairty con se' stesso: 0.5806711497348251
+
+messaggio:  M9869 similairty con se' stesso: 0.6512488524052159
+
+messaggio:  M9870 similairty con se' stesso: 0.649702614849129
+
+messaggio:  M9871 similairty con se' stesso: 0.5118782285043836
+
+messaggio:  M9872 similairty con se' stesso: 0.5575140874650827
+
+messaggio:  M9873 similairty con se' stesso: 0.5478278343477663
+
+messaggio:  M9874 similairty con se' stesso: 0.5258118947759584
+
+messaggio:  M9875 similairty con se' stesso: 0.556821354431223
+
+messaggio:  M9876 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M9877 similairty con se' stesso: 0.6246463641573987
+
+messaggio:  M9878 similairty con se' stesso: 0.5996578033828706
+
+messaggio:  M9879 similairty con se' stesso: 0.654027730590639
+
+messaggio:  M9880 similairty con se' stesso: 0.5510417038368484
+
+messaggio:  M9881 similairty con se' stesso: 0.6140640104693251
+
+messaggio:  M9882 similairty con se' stesso: 0.6206666936322764
+
+messaggio:  M9883 similairty con se' stesso: 0.5071658526289573
+
+messaggio:  M9884 similairty con se' stesso: 0.5489882258504487
+
+messaggio:  M9885 similairty con se' stesso: 0.6956704840728133
+
+messaggio:  M9886 similairty con se' stess
